@@ -11,7 +11,7 @@ analyze:
   checkers:
     all-security: true
     audit: true
-    # distrust-all: true
+  
 
     webapp-security:
       enabled: true
